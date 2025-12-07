@@ -1,0 +1,2 @@
+# SIGED.certificado.secundaria.autenticacion.DECC950810MBCLMN00
+DECC950810MBCLMN00
